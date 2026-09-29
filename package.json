@@ -1,0 +1,13 @@
+{
+  "name": "bukutamu-midtrans-webhook",
+  "version": "1.0.0",
+  "description": "Webhook receiver untuk Midtrans BUKUTAMU",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "crypto": "^1.0.1"
+  }
+}
